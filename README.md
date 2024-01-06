@@ -28,11 +28,11 @@ List updated often, feel free to open a ticket for submissions :)
 20.	Scrape a website with scrapy python
 21.	Linear regression in python – hard
 22.	OpenCV – Do one of these for some real bragging rights
-    a.	OpenCv OCR and text recognition -  link 
-    b.	Build A Face Detector using OpenCV and Deep Learning
-    c.	Build A Barcode Scanner – this is easy
-    d.	Detect a person in a room 
-    e.	Detect different people and try to figure out who they are from a list 
+    *	OpenCv OCR and text recognition -  link 
+    *	Build A Face Detector using OpenCV and Deep Learning
+    *  	Build A Barcode Scanner – this is easy
+    *   detect a person in a room 
+    *   detect different people and try to figure out who they are from a list 
 23.	Anything in Rust, people like rust – maybe write a browser engine in rust
 24.	Make a macropad with micropython and aliexpress parts under $20
 25.	Do some advanced css animations without js, learn keyframes
