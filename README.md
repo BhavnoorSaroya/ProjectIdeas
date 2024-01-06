@@ -1,6 +1,6 @@
 # ProjectIdeas
 CST Project ideas - 30 (not 60 sorry)
-Some are specific, some are vague, you can always reach out on linkedin for help, to collaborate on one of these ideas, or just to talk!
+Some are specific, some are vague, if you want us to clarify about one, you can always reach out on linkedin for help, to collaborate on one of these ideas, or just to talk!
 
 List updated often, feel free to open a ticket for submissions :)
 
